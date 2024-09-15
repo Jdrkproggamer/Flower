@@ -438,3 +438,6 @@
 
 </body>
 </html>
+onload = () => {
+  document.body.classList.remove("container");
+};
